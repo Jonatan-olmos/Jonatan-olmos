@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy jonatan olmos 👋
 
 <!--
 **Jonatan-olmos/Jonatan-olmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Jonatan-olmos&theme=react-dark&hide_border=true&area=true)
