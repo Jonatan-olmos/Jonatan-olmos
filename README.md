@@ -2,6 +2,7 @@
 
 <!--
 **Jonatan-olmos/Jonatan-olmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Untitled design set-820x360-px](https://github.com/Jonatan-olmos/Jonatan-olmos/assets/27811128/b799a4d4-cbb4-4e79-9841-e99890f14b57)
 
 Here are some ideas to get you started:
 
