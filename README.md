@@ -15,7 +15,7 @@
   </p>
   <br>
 <p>
- Hola, mi nombre es [Nombre], soy un programador Web FullStack con experiencia en el desarrollo de aplicaciones web y móviles. Tengo habilidades en lenguajes de programación como HTML, CSS, JavaScript y Python, así como en el uso de frameworks como React y Node.js.
+ Hola, mi nombre es Jonatan Olmos, soy un programador Web FullStack con experiencia en el desarrollo de aplicaciones web y móviles. Tengo habilidades en lenguajes de programación como HTML, CSS, JavaScript y Python, así como en el uso de frameworks como React y Node.js.
 
 He trabajado en proyectos tanto individuales como en equipo, demostrando mi capacidad para adaptarme a diferentes entornos de trabajo y cumplir con los objetivos establecidos. Soy una persona proactiva, creativa y apasionada por la tecnología, siempre buscando aprender nuevas herramientas y técnicas para mejorar mis habilidades.
 
