@@ -22,7 +22,7 @@ He trabajado en proyectos tanto individuales como en equipo, demostrando mi capa
 Estoy en búsqueda de nuevas oportunidades laborales donde pueda seguir creciendo profesionalmente y contribuir con mis conocimientos al desarrollo de proyectos innovadores. Estoy seguro de que mi experiencia y habilidades pueden ser de gran valor para su empresa. ¡Gracias por considerar mi perfil!
 </p>
 <br>
-<h2> Lenguages y Herramientas:
+<h2> Lenguajes y Herramientas:
 <br/>
 <br/>
  
